@@ -1,0 +1,71 @@
+1. Decodificadores de Contraseñas
+Resumen: Herramientas utilizadas para descifrar contraseñas mediante el uso de algoritmos que intentan obtener la clave original.
+Descripción: Estas herramientas se utilizan para descifrar o recuperar contraseñas, eliminando la contraseña original o descubriéndola directamente. Decodificadores de contraseñas realizan conjeturas repetidamente para encontrar la contraseña correcta.
+Herramientas: John the Ripper, Ophcrack, L0phtCrack, THC Hydra, RainbowCrack, Medusa.
+________________________________________
+2. Herramientas de Hacking Inalámbrico
+Resumen: Herramientas utilizadas para piratear redes inalámbricas y detectar vulnerabilidades de seguridad.
+Descripción: Estas herramientas se usan para piratear redes inalámbricas de manera intencionada con el objetivo de detectar debilidades en la seguridad.
+Herramientas: Aircrack-ng, Kismet, InSSIDer, KisMAC, Firesheep, NetStumbler.
+________________________________________
+3. Escaneo de Redes y Herramientas de Hacking
+Resumen: Herramientas utilizadas para escanear redes y dispositivos en busca de puertos abiertos.
+Descripción: Se usan para analizar dispositivos de red, servidores y hosts, identificando puertos TCP o UDP abiertos para posibles ataques.
+Herramientas: Nmap, SuperScan, Angry IP Scanner, NetScanTools.
+________________________________________
+4. Herramientas para Elaborar Paquetes de Prueba
+Resumen: Herramientas diseñadas para probar la robustez de los cortafuegos mediante el envío de paquetes especialmente diseñados.
+Descripción: Estas herramientas se usan para crear paquetes de prueba y comprobar la seguridad de los cortafuegos, forzando su funcionamiento con paquetes creados artificialmente.
+Herramientas: Hping, Scapy, Socat, Yersinia, Netcat, Nping, Nemesis.
+________________________________________
+
+5. Analizadores de Protocolos de Paquetes
+Resumen: Herramientas que permiten capturar y analizar paquetes de datos dentro de las redes.
+Descripción: Estas herramientas capturan y analizan paquetes de redes Ethernet LANs y WLANs para examinar las comunicaciones que se transmiten.
+Herramientas: Wireshark, Tcpdump, Ettercap, Dsniff, EtherApe, Paros, Fiddler, Ratproxy, SSLstrip.
+________________________________________
+6. Detectores de Rootkits
+Resumen: Herramientas utilizadas para detectar rootkits y otras amenazas ocultas en el sistema.
+Descripción: Son verificadores de integridad que ayudan a los expertos a detectar rootkits instalados en un sistema, utilizados para ocultar actividades maliciosas.
+Herramientas: AIDE, Netfilter, PF: OpenBSD Packet Filter.
+________________________________________
+7. Fuzzers para Buscar Vulnerabilidades
+Resumen: Herramientas que permiten probar aplicaciones en busca de vulnerabilidades de seguridad.
+Descripción: Los fuzzers son herramientas utilizadas para descubrir vulnerabilidades en un sistema mediante la introducción de datos aleatorios y errores en las aplicaciones.
+Herramientas: Skipfish, Wapiti, W3af.
+________________________________________
+8. Herramientas de Informática Forense
+Resumen: Herramientas utilizadas para detectar y analizar evidencia digital en una computadora.
+Descripción: Estas herramientas permiten a los profesionales de seguridad realizar investigaciones forenses para encontrar restos de evidencia en los sistemas.
+Herramientas: Sleuth, Helix, Maltego, Encase.
+________________________________________
+
+
+9. Depuradores
+Resumen: Herramientas utilizadas para realizar ingeniería inversa y depurar programas.
+Descripción: Son utilizadas principalmente por hackers para analizar y modificar archivos binarios, permitiendo entender cómo funcionan los programas maliciosos.
+Herramientas: GDB, WinDbg, IDA Pro, Immunity Debugger.
+________________________________________
+10. Sistemas Operativos para Hacking
+Resumen: Sistemas operativos diseñados específicamente con herramientas para hackear y realizar pruebas de penetración.
+Descripción: Estos sistemas están precargados con herramientas optimizadas para facilitar la realización de ataques y pruebas de penetración.
+Herramientas: Kali Linux, Knoppix, BackBox Linux.
+________________________________________
+11. Herramientas de Cifrado
+Resumen: Herramientas diseñadas para proteger datos cifrados y evitar accesos no autorizados.
+Descripción: Se utilizan para cifrar datos y protegerlos de accesos no autorizados mediante algoritmos criptográficos.
+Herramientas: VeraCrypt, CipherShed, OpenSSH, OpenSSL, Tor, OpenVPN, Stunnel.
+________________________________________
+12. Herramientas para Atacar Vulnerabilidades
+Resumen: Herramientas que identifican si un host remoto es vulnerable a un ataque.
+Descripción: Estas herramientas se utilizan para encontrar vulnerabilidades en un sistema que puedan ser explotadas en un ataque.
+Herramientas: Metasploit, Core Impact, Sqlmap, Social Engineer Toolkit, Netsparker.
+________________________________________
+
+
+
+13. Escáneres de Vulnerabilidades
+Resumen: Herramientas que analizan redes o sistemas en busca de puertos abiertos y vulnerabilidades.
+Descripción: Se usan para escanear redes y dispositivos en busca de puertos abiertos y vulnerabilidades conocidas, así como para realizar escaneos más avanzados.
+Herramientas: Nipper, Secunia Nipper, Secuna PSI, Core Impact, Nessus v6, SAINT, Open VAS.
+
